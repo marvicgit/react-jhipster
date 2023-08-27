@@ -1,0 +1,14 @@
+{
+  "applications": ["jhipster"],
+  "changelogDate": "20230825222335",
+  "entityTableName": "project",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Project",
+  "relationships": [],
+  "searchEngine": "no"
+}
